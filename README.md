@@ -1,5 +1,7 @@
 # Data Analyst
 
+#### Technical Skills: Python, R, SQL, DAX, Power Query, Power BI, Tableau, Looker, Power Platform 
+
 ## Education
 - M.Sc., Digital Engineering | OVGU Magdeburg (_Oct 2024_)								       		
 - B.E., Mechanical Engineering	| NED University of Engineering and Technology (_December 2016_)	 			        		
