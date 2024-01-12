@@ -37,6 +37,7 @@
 - **Tools used**: Power BI, DAX Studio, Azure Cloud (Text-to-Speech, AI Services, SQL Database), Postman
 
 ![Sentiment_Analysis_Demo_1](/assests /img/sentiment_analysis_1.jpeg)
+
 ![Sentiment_Analysis_Demo_2](/assets /img/sentiment_analysis_2.jpeg)
 
 **Invoice Processing App**
