@@ -41,4 +41,9 @@
 ![Sentiment_Analysis_Demo](/assets /img/sentiment_analysis_1.jpeg)
 
 **Invoice Processing App**
-Developed a model-driven app for extracting information from invoices, storing data, and getting approvals from managers using Microsoft Power Platform.
+- Developed a model-driven app for extracting information from invoices, storing data, and getting approvals from managers using Microsoft Power Platform.
+- **Tools used**: Power Apps, AI Builder, Power Automate, Dataverse.
+
+**Ecommerce WebApp**
+- Web-based application for an e-commerce platform as part of a semester project. The app has features like setting up a seller account, buying / selling products, viewing product details and reviews.
+- **Tools used**: Python, PHP, MySQL, Gitlab, JIRA, Figma
