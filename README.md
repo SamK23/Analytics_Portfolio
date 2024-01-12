@@ -36,9 +36,9 @@
 - Developed a dashboard for a government entity in Ajman to analyze the feedback of people regarding different transportation services offered, to monitor customer satisfaction and work on improvement areas as highlighted by people.
 - **Tools used**: Power BI, DAX Studio, Azure Cloud (Text-to-Speech, AI Services, SQL Database), Postman
 
-![Sentiment_Analysis_Demo_1](/assests /img/sentiment_analysis_1.jpeg)
+[Sentiment_Analysis_Demo_1](/assests /img/sentiment_analysis_1.jpeg)
 
-![Sentiment_Analysis_Demo_2](/assets /img/sentiment_analysis_2.jpeg)
+[Sentiment_Analysis_Demo_2](/assets /img/sentiment_analysis_2.jpeg)
 
 **Invoice Processing App**
 Developed a model-driven app for extracting information from invoices, storing data, and getting approvals from managers using Microsoft Power Platform.
