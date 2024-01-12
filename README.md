@@ -23,5 +23,7 @@
 Let Me Google That For You WebApp
 - A chatbot that allows real-time chat with BARD and Google Search using BARD API, SERP API and Streamlit. Also included text summarization using BERT framework.
 
+![Chatbot Demo](/assets /img/demo_chatbot_webapp.gif)
+
 Invoice Processing App
 - Developed a model-driven app for extracting information from invoices, storing data, and getting approvals from managers using Microsoft Power Platform.
