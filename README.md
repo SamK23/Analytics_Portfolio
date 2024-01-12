@@ -21,21 +21,23 @@
 
 ## Projects
 **Let Me Google That For You WebApp**
-
-A chatbot that allows real-time chat with BARD and Google Search. Also included text summarization using BERT framework.
-
-**Tools used**: Python, Streamlit, BARD API, SERP API, BERT for text summarization
+- A chatbot that allows real-time chat with BARD and Google Search. Also included text summarization using BERT framework.
+- **Tools used**: Python, Streamlit, BARD API, SERP API, BERT for text summarization
 
 ![Chatbot Demo](/assets /img/demo_chatbot_webapp.gif)
 
 **Population Density of Sindh**
-
-3D map of Sindh (Province of Pakistan) that showcases the population density of that region in 2023 (Dataset released in Nov-2023). Kontur population dataset was utilized to carry out the analysis. Dominant peaks in the image correspond to the cities Karachi and Hyderabad, respectively.
-
-**Tools used**: R Studio, Rayshader package for rendering, Magisk package for annotation layer, GIS, Spatial Analysis
+- 3D map of Sindh (Province of Pakistan) that showcases the population density of that region in 2023 (Dataset released in Nov-2023). Kontur population dataset was utilized to carry out the analysis. Dominant peaks in the image correspond to the cities Karachi and Hyderabad, respectively.
+- **Tools used**: R Studio, Rayshader package for rendering, Magisk package for annotation layer, GIS, Spatial Analysis
 
 ![Sindh_Population_Density](/assets /img/sindh_population_density.jpeg)
 
-**Invoice Processing App**
+**Sentiment Analysis of Customer Feedback**
+- Developed a dashboard for a government entity in Ajman to analyze the feedback of people regarding different transportation services offered, to monitor customer satisfaction and work on improvement areas as highlighted by people.
+- **Tools used**: Power BI, DAX Studio, Azure Cloud (Text-to-Speech, AI Services, SQL Database), Postman
 
+![Sentiment_Analysis_Demo_1](/assests /img/sentiment_analysis_1.jpeg)
+![Sentiment_Analysis_Demo_2](/assets /img/sentiment_analysis_2.jpeg)
+
+**Invoice Processing App**
 Developed a model-driven app for extracting information from invoices, storing data, and getting approvals from managers using Microsoft Power Platform.
