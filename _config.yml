@@ -1,5 +1,7 @@
 title: Osama Kamal
 logo: /assets /img/osama-headshot.png
 description: Data Analytics Portfolio
-show_downloads: false
+show_downloads: true
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
