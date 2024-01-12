@@ -32,7 +32,7 @@
 - Developed a dashboard for financial consumer complaints as part of a bootcamp, to monitor customer complaints.
 - **Tools used**: Tableau, Tableau Prep, Figma
 
-![Financial_Consumer_Complaints](/assets /omg/financial_consumer_complaints.jpeg)
+![Financial_Consumer_Complaints](/assets /img/financial_consumer_complaints.jpeg) 
 
 **Population Density of Sindh**
 - 3D map of Sindh (Province of Pakistan) that showcases the population density of that region in 2023 (Dataset released in Nov-2023). Kontur population dataset was utilized to carry out the analysis. Dominant peaks in the image correspond to the cities Karachi and Hyderabad, respectively.
