@@ -5,3 +5,5 @@ show_downloads: false
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
+sass:
+  style: expanded
